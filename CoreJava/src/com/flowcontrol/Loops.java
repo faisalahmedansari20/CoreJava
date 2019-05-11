@@ -3,7 +3,7 @@ package com.flowcontrol;
 public class Loops {
 
 	public static void main(String[] args)
-	{
+	{    //alam
 		
 		int x = 10;
 //		l1:
