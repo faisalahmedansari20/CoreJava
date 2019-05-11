@@ -5,6 +5,7 @@ abstract class ClassModifier {
 	public static void main(String[] args)
 	{
 		  int i ;
+		  System.out.println("Alam");
 		
 	}
 	public abstract void mk();
