@@ -1,0 +1,92 @@
+Eclipse shortCuts
+
+
+1>  Ctrl + N  create new file
+2>  Ctrl + O  open methods present in the current file
+    
+3>  Ctrl + Shift + T  finding classes even from jar files in the current project
+4>  Alt + Enter       show current file property
+    
+5>  Ctrl + S   save current file
+6>  Ctrl + Shift +S  save all files
+
+7>  Ctrl + Shift + W  closes all the filess 
+8>  refreshes  the current file 
+
+9>  Ctrl + T  give hierarchy between parent and child
+10> Ctrl + Shift +G opens eclipse shortcuts
+
+11> Ctrl + M maximize and minize the current screen
+12> Ctrl + E  open current open files list on the screen
+
+13> Alt + left  and right Arrow  moves from previous and current open files
+14> Ctrl + Shift + F  formatting the file
+
+15> Ctrl  + L  jumos to the line number
+16> Ctrl + Q  jumps to the last edited location
+
+17> Ctrl + Shift + P finds the closing braces
+18> Ctrl + up and Down Arrow  moves without changing the position of the Arrow
+
+19> Ctrl + D delete current line
+20> Alt + up Down Arrow  moves the line up and down
+
+21> Shift + Enter  moves cursor to the below currnet line
+22> Shift + Ctrl + Enter  moves cursor to the Above currnet line
+
+23> Shift + Ctrl + X  change selection to the uppe
+24> Shift + Ctrl + Y  change selection to the Lower Case
+
+25> Ctrl + F  find the words
+26> Ctrl + K finds the next occurance of search term
+
+27> Ctrl + Shift + O  imports required package
+28> Ctrl + H   search for the workspace
+
+
+29> Shift + Tab  moves left side selected words
+30> Tab         moves to the right side of the selected words
+
+31> Ctrl + /  for commenting the current line and uncomment
+32> Ctrl + Shift + /   Add block comment 
+33>  Ctrl + Shift + \   unblock comment 
+
+
+34> Ctrl + Space   opens available methods and variables
+35> Ctrl + 1   opens Quick Fix and Assistance 
+36> Alt /      purpose of this for word completion
+
+37> Ctrl + O opens methods in the current file 
+38> F4   select class and and enter F4 to see its type hierarchy
+
+39> Ctrl + Move over the method to get the declaration of the method
+40> Alt + Shift + R rename selected element and all references 
+
+41> Alt + Shift + R   changing the method signature
+42Alt + Shift + M extract selection to the method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

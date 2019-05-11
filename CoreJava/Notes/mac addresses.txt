@@ -1,0 +1,22 @@
+tp link router
+0C-41-3E-7D-29-E0 my mob
+E4-46-DA-9B-40-87 shakeel
+C0-EE-FB-D7-4D-4D	 qayum
+B8-76-3F-F7-3B-B9	my laptop
+64-CC-2E-12-CA-4D	 sami
+98-0C-A5-37-AA-92	 zubair dukaan
+
+
+dlink router
+
+30:f9:ed:9f:72:1a lptp
+0c:41:3e:7d:29:e0 my mob
+18:a6:f7:aa:e8:df zafar company
+e8:de:27:b5:68:0b teacher
+30:b5:c2:7e:4d:ef aabid
+80:ad:16:cc:a2:4e saddam
+e0:2c:b2:c6:10:04 alim
+08:2e:5f:8b:89:cb aazam
+84:16:f9:58:19:bb shareef
+54-13-79-bc-99-d5 tbrez lptp hardware property
+84-16-f9-8f-fb-c4   tabrez tp link router

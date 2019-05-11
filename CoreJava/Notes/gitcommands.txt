@@ -1,0 +1,9 @@
+git --version
+git config --global user.name "ahmedWakeel"
+git config --global user.email wakeelmalik123@gmail.com
+git config --global user.password Ww213508213508@
+git clone https://github.com/AhmedWakeel
+git add text.txt
+git status 
+git commit -m "user text" text.txt
+git push -u origin master

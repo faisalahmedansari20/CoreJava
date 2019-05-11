@@ -1,0 +1,39 @@
+http://javaconceptoftheday.com/java-string-interview-questions-and-answers/  best for String code quiz
+
+
+
+
+http://www.baeldung.com/java-memory-management-interview-questions
+https://snowdream.github.io/115-Java-Interview-Questions-and-Answers/115-Java-Interview-Questions-and-Answers/en/collectors.html    // best site
+http://javarevisited.blogspot.in/2012/10/10-garbage-collection-interview-question-answer.html
+https://java-questions-and-answers.blogspot.in/2016/05/jvm-architecture.html
+https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
+http://www.interviewgrid.com/interview_questions/java/java_jvm_internals	
+
+
+interview Question on Arrays
+
+http://javarevisited.blogspot.in/2015/06/top-20-array-interview-questions-and-answers.html  
+
+https://www.tutorialspoint.com/java/lang/system_gc.htm        best site for java.lang.package  classess and their methods 
+
+http://javaconceptoftheday.com/7-things-every-java-programmer-should-know-about-threads-in-java/  best site for java tutorial 
+
+http://www.java2novice.com/java_interview_questions/garbage-collector-not-in-use/  java interview Question
+
+
+java interview questions on collection and collections for experienced  search on google for interview 
+http://javarevisited.blogspot.in/2015/10/133-java-interview-questions-answers-from-last-5-years.html   best 
+
+Best Tutorial Sites 
+
+javaconceptoftheday.com
+http://www.javawithus.com      core java concept
+http://www.geeksforgeeks.org
+http://java-questions.com
+http://tutorials.jenkov.com
+http://javabypatel.blogspot.in    *******
+http://www.instanceofjava.com/2015/05/comparable-vs-comparator-in-java-example.html best for all the java topics and interview
+
+https://way2java.com/java-questions/io-streams/   interview Questions
+https://www.journaldev.com/552/java-tricky-interview-questions  java tricky questions

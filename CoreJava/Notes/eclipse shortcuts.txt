@@ -1,0 +1,43 @@
+eclipse importants shortcuts
+
+ 1>  Ctrl + N              creates the new file
+ 2>  Ctrl + Shift + R      finds the resources and files in the project 
+
+ 3>  Ctrl + Shift + T     finds the class even from the jar files 
+ 4>  Alt  + Enter         shows the properties of the files 
+
+ 5> Ctrl + S             saves the current file
+ 6> Ctrl + Shift + S     saves all the files 
+
+ 7> Ctrl + W             closes the current file 
+ 8> Ctrl + Shift + W     closes the all the files 
+
+ 9> Ctrl + Shift + L     shows all the eclipse shortcuts 
+10> Ctrl + M             maximize and minimize the current window
+
+11> Ctrl + E             Shows list of all open files in the current screen
+12> Alt + Left ot Right  moves previous and next files
+
+13> Ctrl + F10          shows the line number
+14> Ctrl + Shift + F    formate the text 
+
+15> Ctrl + shift + Up Down   navigate from method to method  or member to member
+16> Ctrl + L              jump to line number
+
+17> Ctrl + F10         Show or hide the line number 
+18> Ctrl + Q           jump to last edited location 
+
+19> Ctrl + Shift + P   move from open to close braces
+20> Ctrl + Up and Down Arrow    move without chnging the position 
+
+21> Shift + Enter          Enter line below the current line
+22> Ctrl + Shift + Enter   Enter line above the current line
+
+23>Ctrl + Shift + Y  change selection to all lower case
+24> Ctrl + Shift + X  change selection to all Upper case
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+d:\>cacls foldername /e /p everyone:n    to lock any folder
+d:\>cacls foldername /e /p everyone:f    to unlock any folder

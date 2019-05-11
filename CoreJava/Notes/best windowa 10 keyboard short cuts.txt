@@ -1,0 +1,50 @@
+window + A   opens action centre 
+window + B   selects first icon in icon area
+window + ctrl + B  open apps which message in notification area
+window + ctrl + F  open computer 
+window + Q   opens search charm
+window + T   goes to task bar
+window + w   will open window ink bar where onenote etc 
+window + x   opens windows mobility center
+window + pausekey opens System information
+window + + increase mangnifier of screen
+window + P opens projector 
+window + S search for apps
+ctrl + shift + esc open task manager
+alt + enter  show property
+
+//////////////////////////////////
+
+shift + delete  deletes the files without saving in the recycle bin
+ctrl  + N   creates the new folder 
+ctrl  + A   selects  all the text on current text
+window + M  minimize all the open apps
+window + L  lock the screen
+F2  rename the folder
+windowa key + A   opens action center
+ALT + home    goes to home page in google chrome
+window key + I  opens the Setting
+window key + + zooms the screen
+ALT + double tab   selects the vertical section in the  edit plus
+window key + tab   move between the open apps
+
+
+
+/////////////////////////////////////////////////////////////////
+to change the cmd path directly go to directory and type cmd and enter in the  it will open the cmd with dafault set path 
+
+alt + ctrl + delete  changes the user in the windows 10 
+window key + arrow   use to move the open app into any side of the screen
+window key + .  will open new emoji
+window key + s  and search math it will open user define symbols
+window key + ctrl + D  creates new virtual desktop
+window key + ctrl + right or left arrow moves between the open virtual desktop
+
+
+
+
+
+
+
+
+ 

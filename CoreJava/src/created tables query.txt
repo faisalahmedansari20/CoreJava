@@ -1,0 +1,148 @@
+create table temp
+                 (
+		  id int not null,
+		  name varchar2(90) not null,
+		  salary int not null,
+		  location varchar2(90)
+		  );
+insert into temp values(1,'ahmed',2000,'mumnai');
+insert into temp values(2,'wakeel',3000,'pune');
+insert into temp values(3,'sami',4000,'nashik');
+
+
+create table newTemp
+                   (
+		    temp_id int not null,
+		    name varchar2(90) not null
+		    );
+insert into newtemp vlaues(1,'sam');
+insert into newtemp vlaues(2,'mike');
+
+
+
+
+// employee and employee salary table//
+
+create table employeedetails( 
+                               empid int not null primary key,
+			       name varchar2(90) not  null,
+			       manageris int not null,
+			       date_of_joining timestamp default sysdate
+			       );
+insert into employeedetails values(121,'john',321,sysdate);
+insert into employeedetails values(321,'abc xyz',986,sysdate);
+insert into employeedetails values(421,'kuldeep rana',876,sysdate);
+
+
+create table employeesalary
+                          (
+			   empid int not null,
+			   project varchar2(90),
+			   salary int 
+			   );
+inert into employeesalary values(121,p1,8000);
+inert into employeesalary values(321,p2,1000);
+inert into employeesalary values(421,p1,12000);
+
+
+
+
+
+/////////////////////////////////////////////////////////
+
+create table joining
+                   ( 
+		     id int not null,
+		     name varchar2(90) not null,
+		     salary int not null,
+		     city varchar2(90) not null
+		     );
+insert into joining values(1,'aa',1000,'mumbai');
+insert into joining values(2,'bb',3000,'pune');
+insert into joining values(3,'cc',2000,'goa');
+insert into joining values(4,'dd',4000,'nashik');
+
+
+
+
+create table joined
+                   ( 
+		     id int not null,
+		     college varchar2(90) not null,
+		     salary int not null,
+		     );
+insert into joined values(1,'aa',1000);
+insert into joined values(2,'bb',3000);
+insert into joined values(3,'cc',2000);
+insert into joined values(4,'dd',4000);
+
+
+
+// sql create table //
+create table employee
+                     (
+		       employee_id int primary key not null,
+		       first_name varchar(90) not null,
+		       last_name varchar2(90) not null,
+		       salary int not null,
+		       joining_date sysdate,
+		       departement varchar2(90) not null,
+                                       );
+
+
+insert into employee values (2,'michael','clark',800000,sysdate,'insurance');
+insert into employee values (3,'roy','thomas',700000,sysdate,'banking');
+insert into employee values (4,'tom','jose',600000,sysdate,'insurance');
+insert into employee values (5,'jerry','pinto',650000,sysdate,'insurance');
+insert into employee values (6,'philip','mathew',750000,sysdate,'service');
+insert into employee values (7,'testname1','123',650000,sysdate,'service');
+insert into employee values (8,'testname2','lname%',600000,sysdate,'insurance');
+
+
+
+create table incentives (
+                          employee_ref_id int not null primary key,
+			  incentive_date timestamp not null,
+			  incentive_amount int not null
+                          );
+                alter table incentives drop primary constraint;
+insert into incentives values(1,'01-feb-13',5000);
+insert into incentives values(2,'01-feb-13',3000);
+insert into incentives values(3,'01-feb-13',4000);
+insert into incentives values(1,'01-jan-13',4500);
+insert into incentives values(2,'01-jan-13',3500);
+
+
+
+create table A (
+                 A int not null,
+		 M char
+		 );
+
+
+create table B (
+                 A int not null,
+		 N char
+		 );
+
+insert into A values(1,'m');
+insert into A values(2,'n');
+insert into A values(4,'o');
+
+
+insert into B values(2,'p');
+insert into B values(3,'q');
+insert into B values(5,'r');
+
+
+
+
+
+
+
+
+
+
+
+
+

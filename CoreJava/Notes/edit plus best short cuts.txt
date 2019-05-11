@@ -1,0 +1,142 @@
+                        IMPORTANT SHORTCUTS
+Ctrl + Shift + W                      // copies  current word
+Ctrl + W                             // closes the current open page
+Ctrl + Alt + W                     // closes all the currently  open files
+Ctrl + Shift + Q                     // closes the all the open files except current open files
+Alt + Shift + 2                      // closes and opens the output panel
+Alt + Shift + 1                      // closes and opens the clipboard
+Ctrl + Alt + P                      // copies current file path to clipboard
+Ctrl + Alt + S                      // locks the currently open file to restrict any other file change
+Ctrl + Shift + p                    // shows the currently open file property
+Ctrl + Alt + N                     // open new  file with type
+Ctrl + X                           // deletes the current line
+Ctrl + R                          // copies  current line
+Ctrl + Shift + Home             // copies the text from to begining of the document
+Ctrl + Shift + End            // copies the text from to end of the document
+Ctrl + Shift + right arrow           // copies word to word towards right
+Ctrl + Shift + left arrow          // copies word to word towards left
+Shift + left arrow            // copies character by character towards left
+Shift + left arrow           // copies  character by character towards right
+End                          // moves the cursor to the end  of the line
+Home                         // moves the cursor to the start of the line
+Ctrl + Home                      // cursor goes to begining of the document
+Ctrl + End                       // moves the cursor to the end of the document
+Alt + down arrow             // moves the cursor to start of the line
+Alt + Up arrow             // moves the cursor to start of the Previous line
+Ctrl + Shift +Page Up       // copies from to the up page
+Ctrl + Shift +Page Down       // copies from to the down page
+Ctrl + Page up             // moves the cursor to up  page
+Ctrl + Page down             // moves the cursor to down  page
+Alt + Enter            // moves the current  word or line to left border
+Alt + Shift + up Arrow  // moves the current  line in upwards direction
+Alt + Shift + down Arrow   // moves the current line in doward direction
+Ctrl + U               // upper case
+Ctrl + L              //  Lower case
+Ctrl + Z            // undo
+Ctrl + Alt + Z     // undo all
+Shifdt + D        // checks the duplicate lines
+Shift + Ctrl + C      // count total characters in the file
+Alt + Shift + L      // deletes blanks lines from the current document
+Alt + Delete   // deletes  the current word
+Cltr + Shift + J // joins the  lines
+Alt + Shift + O   //shows or hides all white  spaces
+
+
+
+
+
+
+
+
+
+
+
+
+Ctrl + Alt + o                       // shows all closed files
+Ctrl + Shift + W                      // copies  current word
+
+Ctrl + W                             // closes the current open page
+Ctrl + Alt + W                     // closes all the currently  open files
+
+Ctrl + Shift + Q                     // closes the all the open files except current open files
+Alt + Shift + 2                      // closes and opens the output panel
+
+Alt + Shift + 1                      // closes and opens the clipboard
+Ctrl + Shift + Q                     // closes the all the open files except current open files
+
+Ctrl + Alt + P                      // copies current file path to clipboard
+Ctrl + Alt + S                      // locks the currently open file to restrict any other file change
+
+Ctrl + Shift + p                    // shows the currently open file property
+Ctrl + Alt + N                     // open new  file with type
+
+Ctrl + X                           // deletes the current line
+Ctrl + R                          // copies  current line
+
+Ctrl + Shift + Home             // copies the text from to begining of the document
+Ctrl + Shift + End            // copies the text from to end of the document
+
+Ctrl + Shift + right arrow           // copies word to word towards right
+Ctrl + Shift + left arrow          // copies word to word towards left
+
+Shift + left arrow            // copies character by character towards left
+Shift + left arrow           // copies  character by character towards right
+
+End                          // moves the cursor to the end  of the line
+Home                         // moves the cursor to the start of the line
+
+Ctrl + Home                      // cursor goes to begining of the document
+Ctrl + End                       // moves the cursor to the end of the document
+
+Alt + down arrow             // moves the cursor to start of the line
+Alt + Up arrow             // moves the cursor to start of the Previous line
+
+Ctrl + Shift +Page Up       // copies from to the up page
+Ctrl + Shift +Page Down       // copies from to the down page
+
+Ctrl + Page up             // moves the cursor to up  page
+Ctrl + Page down             // moves the cursor to down  page
+
+Ctrl + Up Arrow          // moves the cursor to the top of current screen 
+Ctrl + Down Arrow        // moves the cursor to the end of the current screen
+
+
+Alt + Enter            // moves the current  word or line to left border
+
+Alt + Shift + up Arrow  // moves the current  line in upwards direction
+Alt + Shift + down Arrow   // moves the current line in doward direction
+
+Ctrl + U               // upper case
+Ctrl + L              //  Lower case
+
+Ctrl + Z            // undo
+Ctrl + Alt + Z     // undo all
+
+Ctrl + Alt + K   //gives dotted lines in the space
+Shifdt + D        // checks the duplicate lines
+
+Shift + Ctrl + C      // count total characters in the file
+Alt + Shift + L      // deletes blanks lines from the current document
+
+Alt + Delete   // deletes  the current word
+
+Cltr + Shift + J // joins the  lines
+Alt + Shift + O   //shows or hides all white  spaces
+
+Alt + Shift + 2  // show or hides output  windows
+Alt + Shift + S  // Searches for the String in the multiple files
+
+F3            // find next  matching words
+Ctrl + F3   // finds the next current word
+
+Shift + F3  // finds the previous current word
+Ctrl + G   // goes to current line of open file
+
+Ctrl + H  // replace option
+Alt + Shift + R  // sets the current document read only
+
+Ctrl + Alt + F // finds the file name in the current directory
+Alt + Shift + D  // Search for a String in selected directory
+Shift + Enter   // clears the output Screen
+
+

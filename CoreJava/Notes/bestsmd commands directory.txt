@@ -1,0 +1,18 @@
+f1 key  writes previous cmd char by char
+f3 key  paste the last executed command
+help  gives more commands
+c:\WINDOWS\system32>cd\                output   c:\>   changes the directory goes from main directory
+c:\WINDOWS\system32>cd..               output   c:\WINDOWS>  
+c:\WINDOWS\system32>d:                 output   d:\>          chabge the drive
+c:\WINDOWS\system32>cd /d d:\java      output   d:\java>     changes the directory with subdirectory
+c:\WINDOWS\system32>dir                output                get content of folder
+c:\WINDOWS\system32>mkdir xys          output                creates the new folder in the current directory
+c:\WINDOWS\system32>mkdir d:\others    output                creates the folder in the d drive in the c drive
+c:\WINDOWS\system32>ren java kava      output                renames the file and folder 
+c:\WINDOWS\system32>copy D:\digital\pic.jpg  D:\digital\digitalcitizen_test\pic_test.jpg   cpopy  file from one folder to another folder
+c:\WINDOWS\system32>copy notes.txt  digital_notes.txt    copy the file in the same folder
+c:\WINDOWS\system32>xcopy /s /i d:\digital_citizen c:\backup_digital_citizen     copy folder and its subfolder
+c:\WINDOWS\system32>del digital_citizen_Test deletes the folder or file after typing y
+c:\WINDOWS\system32>del abc.txt   if you want to delete single file in the folder 
+
+           

@@ -1,0 +1,18 @@
+diskpart
+list disk
+select disk 1
+clean
+create partition primary
+active
+select partition 1
+format fs=fat32
+
+
+
+
+
+
+to copy larger file into any pendrive or sd card destination is too long then use this command on cmd
+
+c:\WINDOWS\system32>CONVERT G:/FS:NTFS /NOSECURITY         //here G is disk or drive name
+ 
